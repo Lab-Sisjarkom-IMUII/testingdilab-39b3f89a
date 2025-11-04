@@ -1,0 +1,11 @@
+{
+  "name": "testingdilab",
+  "framework": "react",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "testingdilab",
+  "email": "2252318@studet.uii.acid",
+  "secretKey": "imuii_bf35364ec40faf0458ceee6a29d194371af499a9b5d2439820c78ee2025804f8",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/testingdilab-39b3f89a.git"
+}
